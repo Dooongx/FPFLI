@@ -20,7 +20,7 @@ The data and pretrained model parameters of LLE and NIII are included. These fil
 
 ## Training 
 You can train FPFLI for analyzing specific FLIM data according to your applications. 
- The folder `./synthetic data generation`  provides matlab scripts to generate synthetic fluorescence decay histograms and semi-synthetic FLIM images. 
+ The folder `./Synthetic data preparation`  provides matlab scripts to generate synthetic fluorescence decay histograms and semi-synthetic FLIM images. 
  ### LLE
  For the training of LLE, the synthetic decays can be generated using `Fluorescence_multi_decay_nonhomopp.mat` with predifined liftime range, lifetime component, timing resolution, and photon count. The decays for training are saved in one matlab file, in which *y* denotes decays and *tau_ave* denotes targets. LLE is trained by `Training_LLE.py`  in `./Network training/LLE_training`.
  ### NIII
