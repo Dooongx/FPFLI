@@ -1,5 +1,5 @@
 # FPFLI
-This repository contains the source codes of **F**ew **P**hoton **F**luorescence **L**ietime **I**maging (FPFLI) algorithm presented in the paper "*Deep Learning Enhanced Fast Fluorescence Lifetime Imaging with A Few Photons*" by Dong Xiao, Natakorn Sapermsap, Yu Chen, and David Li.
+This repository contains the source codes of **F**ew **P**hoton **F**luorescence **L**ietime **I**maging (FPFLI) algorithm presented in the paper ["*Deep Learning Enhanced Fast Fluorescence Lifetime Imaging with A Few Photons*"](https://biorxiv.org/cgi/content/short/2023.04.06.534322v1) by Dong Xiao, Natakorn Sapermsap, Yu Chen, and David Li.
 
 ## Environment
 - Python >= 3.6
